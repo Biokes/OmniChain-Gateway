@@ -61,7 +61,7 @@ npm run generate-quote -- --from "stellar:USDC" --to "ethereum:USDC" --amount 10
 
 ## Security
 
-To report a vulnerability, see our [Security Policy](.github/SECURITY.md).
+To report a vulnerability, open  an issue, 
 
 Multi-chain bridging involves significant risk. Omnichain Gateway minimizes exposure by requiring consensus validation through **Decentralized Verifier Networks (DVNs)** or institutional **Guardian nodes** to confirm source-chain state events before releasing target assets.
 
