@@ -20,8 +20,8 @@ export default function PartnerTicker() {
         </div>
       </div>
 
-ææ      <div
- æ       className="absolute inset-0 pointer-events-none"
+      <div
+       className="absolute inset-0 pointer-events-none"
         style={{
           backdropFilter: 'blur(12px)',
           WebkitBackdropFilter: 'blur(7px)',
